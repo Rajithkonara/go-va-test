@@ -2,11 +2,10 @@ module rajithk.com/main
 
 go 1.19
 
-require github.com/arsham/rainbow v1.0.0
+require github.com/arsham/rainbow v1.2.1
 
 require (
 	cloud.google.com/go v0.45.1 // indirect
-	github.com/arsham/strings v0.0.0-20181015215346-d1b453ead28d // indirect
 	github.com/aws/aws-sdk-go v1.15.78 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
