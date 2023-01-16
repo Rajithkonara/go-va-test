@@ -1,0 +1,4 @@
+github.com/arsham/rainbow v1.0.0 h1:S9aQh649hWg33rXc7BJ8At9dM2pUd5JP0p62rIwZQjw=
+github.com/arsham/rainbow v1.0.0/go.mod h1:1cTABkFmZGSPWVy2t1WYgudYzi/f6sDItjSO9KPBAsA=
+github.com/arsham/strings v0.0.0-20181015215346-d1b453ead28d h1:bAHn/hnBltauPNYVeN/vJ00yucjAxDRhfgHY3wLvN0w=
+github.com/arsham/strings v0.0.0-20181015215346-d1b453ead28d/go.mod h1:/EE+i8AExfuc9Ti0k/f2ehdNgGuCruMYeeJ0Mw8MZjg=
