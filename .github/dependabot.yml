@@ -6,3 +6,4 @@ updates:
       interval: "daily"
     reviewers:
       - "Rajithkonara"
+    open-pull-requests-limit: 0
