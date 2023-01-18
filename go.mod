@@ -34,3 +34,4 @@ require (
 )
 
 require github.com/hashicorp/go-getter v1.5.11
+require mellium.im/sasl v0.2.1 // indirect
