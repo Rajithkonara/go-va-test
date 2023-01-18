@@ -16,5 +16,6 @@ func main() {
 		Writer: os.Stdout, // to write to
 	}
 	getter.Get("", "")
+	getter.Get("", "")
 	l.Paint() // will rainbow everything it reads from reader to writer.
 }
