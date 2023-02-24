@@ -21,17 +21,14 @@ require (
 	github.com/mitchellh/go-testing-interface v1.0.0 // indirect
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/net v0.0.0-20190620200207-3b0461eec859 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45 // indirect
-	golang.org/x/sys v0.0.0-20190624142023-c5567b49c5d0 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
 	google.golang.org/grpc v1.21.1 // indirect
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	mellium.im/sasl v0.2.1 // indirect
 )
 
 require github.com/hashicorp/go-getter v1.5.11
-require mellium.im/sasl v0.2.1 // indirect
